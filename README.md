@@ -71,9 +71,6 @@ const jaiswalanadi = {
     databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
     cloud_devops: ["AWS", "Docker", "Git", "CI/CD"]
   },
-
-  philosophy:
-    "Build intelligent systems that scale, adapt, and create real-world impact 🚀"
 };
 
 ```
