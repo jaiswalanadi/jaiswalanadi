@@ -17,13 +17,17 @@
   <a href="https://www.instagram.com/jaiswalanadi_/?next=%2F">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
+</div>
 
+<div align="center"> 📧 **jaiswalanadi@gmail.com** 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaiswalanadi&label=Profile%20Views&style=for-the-badge&color=blueviolet"/> 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leviosa2002&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leviosa2002?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> 
-  <img src="https://img.shields.io/github/stars/leviosa2002?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=jaiswalanadi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jaiswalanadi?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> 
+  <img src="https://img.shields.io/github/stars/jaiswalanadi?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge&labelColor=black" alt="Open Source Love" />
 </div>
 
