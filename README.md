@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<div align="center"> 📧 **jaiswalanadi@gmail.com** 
+<div align="center"> 📧 **jaiswalanadi@gmail.com** </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiswalanadi&label=Profile%20Views&style=for-the-badge&color=blueviolet"/> 
 </div>
