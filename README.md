@@ -32,7 +32,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=AI/ML+Engineer+%26+Software+Developer;LLM+%26+RAG+Application+Builder;Data+Science+%26+Analytics+Specialist;Cloud-Deployed+Production+AI+Systems;Research+%2B+Engineering+Mindset;Always+Learning%2C+Always+Building"/>" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=AI/ML+Engineer+%26+Software+Developer;LLM+%26+RAG+Application+Builder;Data+Science+%26+Analytics+Specialist;Cloud-Deployed+Production+AI+Systems;Research+%2B+Engineering+Mindset;Always+Learning%2C+Always+Building"/>
 </div>
 
 <div align="center">
