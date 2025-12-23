@@ -41,6 +41,7 @@
 
 ## 💻 Developer Profile
 
+'''python
 profile = {
     "name": "Anadi Jaiswal",
     "role": "AI & ML Engineer | Full Stack Developer | Software Engineer",
@@ -63,7 +64,7 @@ profile = {
     "fun_fact": "I can turn data into insights AND create stunning visuals! 🎨📊",
     "philosophy": "Data transforms chaos into clarity, creativity brings ideas to life 🚀"
 }
-
+'''
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
