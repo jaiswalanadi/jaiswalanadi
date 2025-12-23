@@ -32,11 +32,8 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=AI/ML+Engineer+%26+Software+Developer;LLM+%26+RAG+Application+Builder;Data+Science+%26+Analytics+Specialist;Cloud-Deployed+Production+AI+Systems;Research+%2B+Engineering+Mindset;Always+Learning%2C+Always+Building" />" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=AI/ML+Engineer+%26+Software+Developer;LLM+%26+RAG+Application+Builder;Data+Science+%26+Analytics+Specialist;Cloud-Deployed+Production+AI+Systems;Research+%2B+Engineering+Mindset;Always+Learning%2C+Always+Building"/>" alt="About Me Typing" />
 </div>
-
-AI/ML Engineer and Full-Stack Developer with hands-on experience in Machine Learning, NLP, LLMs, RAG pipelines, analytics dashboards, and scalable backend systems.
-Experienced in building production-ready AI systems, deploying cloud-native applications, and translating research into real-world impact.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -128,27 +125,27 @@ const jaiswalanadi = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&theme=dark" alt="Web Dev"/> </div>
 </div>
 
-###🤖 AI / ML & GenAI
-
-- Machine Learning & Statistical Modeling
-- NLP, Topic Modeling, Sentiment Analysis
-- LLMs, RAG Pipelines, LangChain
-- Vector Databases 
-
 ### 🛠️ Development Tools  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Dev Tools" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
 </div>
 
+### 🤖 AI / ML & GenAI
+
+- Machine Learning & Statistical Modeling
+- NLP, Topic Modeling, Sentiment Analysis
+- LLMs, RAG Pipelines, LangChain
+- Vector Databases 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Research
 
-🧾 Published Patent: AI-Powered Recommendation System for E-Commerce
-📚 Research Article on AI + Blockchain in Healthcare & Supply Chain
-⭐ CodeChef 4-Star (Max Rating: 1865)
-🧠 Codeforces Expert (Max Rating: 1629)
+- 🧾 Published Patent: AI-Powered Recommendation System for E-Commerce
+- 📚 Research Article on AI + Blockchain in Healthcare & Supply Chain
+- ⭐ CodeChef 4-Star (Max Rating: 1865)
+- 🧠 Codeforces Expert (Max Rating: 1629)
 
 ## 📈 GitHub Analytics
 
@@ -206,7 +203,7 @@ const jaiswalanadi = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Ankit+Prasad;Let's+connect+and+build+something+amazing+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Anadi+Jaiswal;Let's+connect+and+build+something+amazing+together!" alt="Footer" />
 </div>
 
 <div align="center">
