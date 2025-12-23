@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Anadi Jaiswal!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Software+Engineering+Universe+%F0%9F%8C%8C;🚀;AI/ML+Engineer+🤖;Full-Stack+Developer+⚙️;LLM+%26+RAG+Systems+Builder+🧠;Data+Science+%26+Analytics+📊;Cloud-Native+AI+Applications+☁️;Turning+Research+into+Production+🔥;Building+Scalable+Intelligent+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Software+Engineering+Universe+%F0%9F%8C%8C;AI/ML+Engineer;Full-Stack+Developer;LLM+%26+RAG+Systems+Builder;Data+Science+%26+Analytics;Cloud-Native+AI+Applications;Turning+Research+into+Production;Building+Scalable+Intelligent+Systems!" alt="Typing SVG" />
 </div>
 
 <div align="center">
