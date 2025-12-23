@@ -177,18 +177,6 @@ const jaiswalanadi = {
 <div align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let’s+Build+Intelligent+Systems+Together!&fontSize=24&animation=twinkling" width="100%"/> </div>
 
-## 💡 Quote of the Day
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=%22Learning+never+exhausts+the+mind.%22+%E2%80%93+Leonardo+da+Vinci;%22Data+is+the+new+oil%2C+but+like+oil%2C+it+has+to+be+refined.%22;%22In+God+we+trust%2C+all+others+must+bring+data.%22+%E2%80%93+W.+Edwards+Deming;%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight.%22" alt="Inspirational Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=000000&animation=twinkling" width="100%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Anadi+Jaiswal;Let's+connect+and+build+something+amazing+together!" alt="Footer" />
 </div>
