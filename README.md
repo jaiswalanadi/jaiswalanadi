@@ -10,6 +10,7 @@
 AI/ML Engineer and Full-Stack Developer with hands-on experience in Machine Learning, NLP, LLMs, RAG pipelines, analytics dashboards, and scalable backend systems.
 Experienced in building production-ready AI systems, deploying cloud-native applications, and translating research into real-world impact.
 
+💻 Developer Profile
 anadi_jaiswal = {
     "role": "AI/ML Engineer | Software Developer | Data Scientist",
     "skills": [
@@ -34,32 +35,31 @@ anadi_jaiswal = {
 }
 
 🛠️ Tech Arsenal
+
 💻 Programming Languages
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql&theme=dark"/> </div>
+
 🤖 AI / ML & GenAI
-
 Machine Learning & Statistical Modeling
-
 NLP, Topic Modeling, Sentiment Analysis
-
 LLMs, RAG Pipelines, LangChain
-
 Vector Databases (Pinecone)
 
 🌐 Web & Backend
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark"/> </div>
+
 ☁️ Cloud & DevOps
 <div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark"/> </div>
 
 🏆 Achievements & Research
 
 🧾 Published Patent: AI-Powered Recommendation System for E-Commerce
-
 📚 Research on AI + Blockchain in Healthcare & Supply Chain
-
 ⭐ CodeChef 4-Star (Max Rating: 1865)
-
 🧠 Codeforces Expert (Max Rating: 1629)
+
+📈 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaiswalanadi&show_icons=true&theme=dracula" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalanadi&layout=compact&theme=dracula"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswalanadi&theme=react-dark&area=true"/> </div>
 
 💡 Philosophy
 
