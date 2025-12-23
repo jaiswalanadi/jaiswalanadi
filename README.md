@@ -120,7 +120,7 @@ const jaiswalanadi = {
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker&theme=dark" alt="Cloud & DB" />
 </div>
 
-### ☁️ web Development
+### ☁️ Web Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&theme=dark" alt="Web Dev"/> </div>
 </div>
