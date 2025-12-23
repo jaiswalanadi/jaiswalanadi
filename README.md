@@ -88,7 +88,7 @@ const jaiswalanadi = {
 
 ### 💻 Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,sql&theme=dark" alt="Languages" />
 </div>
 
 ### 📚 Libraries & Frameworks  
