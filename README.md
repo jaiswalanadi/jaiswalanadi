@@ -19,7 +19,6 @@
   </a>
 </div>
 
-<div align="center"> 📧 **jaiswalanadi@gmail.com** </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiswalanadi&label=Profile%20Views&style=for-the-badge&color=blueviolet"/> 
 </div>
@@ -51,7 +50,6 @@ const jaiswalanadi = {
   role: "AI/ML Engineer | Software Developer | Data Scientist",
   location: "India 🇮🇳"
   
-  
   skills: [
     "Machine Learning",
     "Natural Language Processing (NLP)",
@@ -71,21 +69,10 @@ const jaiswalanadi = {
 
   techStack: {
     languages: ["Python", "JavaScript", "TypeScript", "C++", "SQL"],
-
-    ai_ml: [
-      "Scikit-learn",
-      "TensorFlow",
-      "NLP",
-      "LangChain",
-      "Vector Databases (Pinecone)"
-    ],
-
+    ai_ml: ["Scikit-learn","TensorFlow","NLP","LangChain","Vector Databases"],
     backend: ["Node.js", "Express.js", "Flask"],
-
     frontend: ["React.js", "Next.js", "Tailwind CSS"],
-
     databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-
     cloud_devops: ["AWS", "Docker", "Git", "CI/CD"]
   },
 
