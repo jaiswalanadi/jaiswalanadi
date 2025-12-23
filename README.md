@@ -175,12 +175,6 @@ const jaiswalanadi = {
 “Build systems that think, adapt, and scale — not just code.”
 
 <div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let’s+Build+Intelligent+Systems+Together!&fontSize=24&animation=twinkling" width="100%"/> </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Anadi+Jaiswal;Let's+connect+and+build+something+amazing+together!" alt="Footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let’s+Build+Intelligent+Systems+Together!&fontSize=24&animation=twinkling" width="100%"/> 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
