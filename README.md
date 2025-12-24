@@ -81,7 +81,13 @@ const jaiswalanadi = {
 
 ### 💻 Programming Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,sql&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" title="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="SQL"/>
 </div>
 
 ### 🤖 Gen AI & LLM Tools
@@ -98,8 +104,6 @@ const jaiswalanadi = {
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React.js"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="Tailwind CSS"/>
 </div>
 
@@ -137,12 +141,17 @@ const jaiswalanadi = {
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" title="Apache Spark"/>
 </div>
 
+<br clear="both">
+---
+
 ## 🏆 Achievements & Research
 
 - 🧾 Published Patent: AI-Powered Recommendation System for E-Commerce
 - 📚 Research Article on AI + Blockchain in Healthcare & Supply Chain
 - ⭐ CodeChef 4-Star (Max Rating: 1865)
 - 🧠 Codeforces Expert (Max Rating: 1629)
+
+---
 
 ## 📈 GitHub Analytics
 
@@ -167,8 +176,6 @@ const jaiswalanadi = {
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" title="Logstash"/>
 </div>
 -->
-
-<br clear="both">
 
 ---
 
