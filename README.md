@@ -141,20 +141,6 @@ const jaiswalanadi = {
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" title="Apache Spark"/>
 </div>
 
-<br clear="both">
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey+%F0%9F%93%88;Stats+%26+Streaks+%F0%9F%94%A5" alt="GitHub Stats Header" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiswalanadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" width="500" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswalanadi&hide=jupyter%20notebook&layout=compact&theme=dracula" />
-</div>
 
 <!--
 ### 🚀 Message Queues & Monitoring
@@ -168,6 +154,9 @@ const jaiswalanadi = {
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" title="Logstash"/>
 </div>
 -->
+
+
+<br clear="both">
 
 ---
 
