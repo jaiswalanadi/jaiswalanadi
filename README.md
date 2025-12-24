@@ -100,7 +100,7 @@ const jaiswalanadi = {
   <img src="https://img.shields.io/badge/FAISS-0085CA?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" title="Facebook AI Similarity Search"/>
 </div>
 
-### 💻 Frontend Development
+### 🚀 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React.js"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js"/>
@@ -142,14 +142,6 @@ const jaiswalanadi = {
 </div>
 
 <br clear="both">
----
-
-## 🏆 Achievements & Research
-
-- 🧾 Published Patent: AI-Powered Recommendation System for E-Commerce
-- 📚 Research Article on AI + Blockchain in Healthcare & Supply Chain
-- ⭐ CodeChef 4-Star (Max Rating: 1865)
-- 🧠 Codeforces Expert (Max Rating: 1629)
 
 ---
 
